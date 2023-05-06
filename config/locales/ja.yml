@@ -1,0 +1,11 @@
+--2023-05-06 18:07:24--  https://raw.githubusercontent.com/svenfuchs/rails-i18n/master/rails/locale/ja.yml
+raw.githubusercontent.com (raw.githubusercontent.com) をDNSに問いあわせています... 185.199.109.133, 185.199.110.133, 185.199.108.133, ...
+raw.githubusercontent.com (raw.githubusercontent.com)|185.199.109.133|:443 に接続しています... 接続しました。
+HTTP による接続要求を送信しました、応答を待っています... 200 OK
+長さ: 4691 (4.6K) [text/plain]
+`ja.yml' に保存中
+
+     0K ....                                                  100% 9.77M=0s
+
+2023-05-06 18:07:25 (9.77 MB/s) - `ja.yml' へ保存完了 [4691/4691]
+
